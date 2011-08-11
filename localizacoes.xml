@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<localizacao>
+	<local nome="Nome Unidade 01" endereco="Endereço da Unidade 01" latitude="-29.499117"  longitude="-50.994458" />
+	<local nome="Nome Unidade 02" endereco="Endereço da Unidade 02" latitude="-29.53403"  longitude="-51.086479" />
+	<local nome="Nome Unidade 03" endereco="Endereço da Unidade 03" latitude="-29.174646"  longitude="-51.160927" />
+	<local nome="Nome Unidade 04" endereco="Endereço da Unidade 04" latitude="-29.44184"  longitude="-51.138096" />
+	<local nome="Nome Unidade 05" endereco="Endereço da Unidade 05" latitude="-29.416582"  longitude="-51.050012" />
+	<local nome="Nome Unidade 06" endereco="Endereço da Unidade 06" latitude="-29.466802"  longitude="-51.202254" />
+	<local nome="Nome Unidade 07" endereco="Endereço da Unidade 07" latitude="-29.505541"  longitude="-51.176054" />
+	<local nome="Nome Unidade 08" endereco="Endereço da Unidade 08" latitude="-29.453388"  longitude="-51.305358" />
+	<local nome="Nome Unidade 09" endereco="Endereço da Unidade 09" latitude="-29.398006"  longitude="-51.253812" />
+	<local nome="Nome Unidade 10" endereco="Endereço da Unidade 10" latitude="-29.663537"  longitude="-51.145113" />
+	<local nome="Nome Unidade 11" endereco="Endereço da Unidade 11" latitude="-29.165"  longitude="-51.1795" />
+	<local nome="Nome Unidade 12" endereco="Endereço da Unidade 12" latitude="-29.376827"  longitude="-51.113248" />
+	<local nome="Nome Unidade 13" endereco="Endereço da Unidade 13" latitude="-29.683001"  longitude="-51.126573" />
+	<local nome="Nome Unidade 14" endereco="Endereço da Unidade 14" latitude="-29.380361"  longitude="-51.313062" />
+	<local nome="Nome Unidade 15" endereco="Endereço da Unidade 15" latitude="-29.536294"  longitude="-51.25092" />
+	<local nome="Nome Unidade 16" endereco="Endereço da Unidade 16" latitude="-29.377314"  longitude="-50.872943" />
+	<local nome="Nome Unidade 17" endereco="Endereço da Unidade 17" latitude="-29.60348"  longitude="-51.162601" />
+	<local nome="Nome Unidade 18" endereco="Endereço da Unidade 18" latitude="-29.583292"  longitude="-51.086748" />
+	<local nome="Nome Unidade 19" endereco="Endereço da Unidade 19" latitude="-29.154241"  longitude="-51.185968" />
+	<local nome="Nome Unidade 20" endereco="Endereço da Unidade 20" latitude="-29.692676"  longitude="-51.234376" />
+</localizacao>
