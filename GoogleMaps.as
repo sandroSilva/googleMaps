@@ -70,6 +70,7 @@
 										var latlng:LatLng = new LatLng(localXml.local[i].@latitude, localXml.local[i].@longitude);
 										var marker:Marker = createMarker(latlng, name, address);
 										map.addOverlay(marker);
+										trace(i);
 									}
 						}					
 				}
@@ -82,8 +83,8 @@
 						var marker:Marker = new Marker(latlng, new MarkerOptions
 							(
 											{
-												strokeStyle: new StrokeStyle({color: 0x666666}),
-												fillStyle: new FillStyle({color: 0x333333, alpha: 0.8}),
+												strokeStyle: new StrokeStyle({color: 0xfece01}),
+												fillStyle: new FillStyle({color: 0x5aba52, alpha: 0.8}),
 												radius: 12,
 												hasShadow: true
 											}
